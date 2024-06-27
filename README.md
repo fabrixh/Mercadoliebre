@@ -16,6 +16,35 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
 - **JavaScript**: Funcionalidades dinámicas en la aplicación.
 - **Node.js** y **Express**: Backend para manejar las solicitudes del formulario de registro y login.
 
+## 📂 Estructura del Proyecto
+
+El proyecto está organizado de la siguiente manera:
+
+
+├── public/
+│   ├── css/
+│   │   └── styles.css # Estilos CSS de la aplicación
+│   ├── images/
+│   │   ├── img-cafetera-moulinex.jpg
+│   │   ├── img-home-banner.jpg
+│   │   ├── img-macbook-pro-2019.jpg
+│   │   ├── img-samsung-galaxy-s10.jpg
+│   │   ├── img-tv-samsung-smart.jpg
+│   │   ├── logo-mercado-liebre.svg
+│   │   └── logo.png # Logo de la aplicación
+│   └── js/
+│       └── main.js # Funcionalidades JavaScript de la aplicación
+├── views/
+│   ├── index.html # Página principal de la aplicación
+│   ├── login.html # Formulario de inicio de sesión
+│   └── register.html # Formulario de registro de usuario
+├── app.js # Archivo principal del servidor Node.js
+├── package.json # Archivo de configuración del proyecto y dependencias
+├── README.md # Documentación del proyecto
+└── .gitignore # Archivos y directorios a ignorar por Git
+
+
+
 ## 🎯 Consignas Prácticas Integradoras a Cumplir
 
 | Clase | Descripción | Enlace |
