@@ -111,7 +111,7 @@
 </header>
   <div class="container">
     <form action="/submit-form" method="post">
-        <div>
+      <div>
         <label for="nombre">Nombre y Apellido:</label>
         <input type="text" id="nombre" name="nombre" required>
       </div>
@@ -129,25 +129,24 @@
       </div>
       <div>
         <label>Perfil del usuario:</label>
-        <input type="radio" id="comprar" name="perfil" value="comprar">
+        <input type="radio" id="comprar" name="perfil" value="comprar" required>
         <label for="comprar">Comprar</label>
         <input type="radio" id="vender" name="perfil" value="vender">
         <label for="vender">Vender</label>
       </div>
       <div>
         <label>Categorías de interés:</label>
-        <input type="checkbox" id="electro" name="categorias" value="electro">
+        <input type="checkbox" id="electro" name="categorias[]" value="electro">
         <label for="electro">Electro</label>
-        <input type="checkbox" id="moda" name="categorias" value="moda">
+        <input type="checkbox" id="moda" name="categorias[]" value="moda">
         <label for="moda">Moda</label>
-        <input type="checkbox" id="hogar" name="categorias" value="hogar">
+        <input type="checkbox" id="hogar" name="categorias[]" value="hogar">
         <label for="hogar">Hogar</label>
-        <input type="checkbox" id="jugueteria" name="categorias" value="jugueteria">
+        <input type="checkbox" id="jugueteria" name="categorias[]" value="jugueteria">
         <label for="jugueteria">Juguetería</label>
-        <input type="checkbox" id="vidaSana" name="categorias" value="vidaSana">
+        <input type="checkbox" id="vidaSana" name="categorias[]" value="vidaSana">
         <label for="vidaSana">Vida Sana</label>
       </div>
-      
       <div>
         <label for="foto">Foto de usuario:</label>
         <input type="file" id="foto" name="foto">
@@ -161,10 +160,11 @@
         <input type="password" id="confirmarContrasena" name="confirmarContrasena" required>
       </div>
       <div>
-        <button type="submit" formaction="index.html">Enviar</button>
+        <button type="submit">Enviar</button>
         <button type="reset">Borrar</button>
       </div>
     </form>
+    
   </div>
   <footer>
     <div class="contenedor-footer">
