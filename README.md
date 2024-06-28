@@ -2,6 +2,10 @@
 
 Mercado Liebre es una aplicación web de comercio electrónico donde los usuarios pueden buscar productos, registrarse, iniciar sesión y ver ofertas basadas en sus visitas anteriores.
 
+
+<img src="./public/images/logo-mercado-liebre.svg" alt="Vista Previa del Video" width="220">
+
+
 ## 📑 Características
 
 - **Página principal**: Muestra un banner y secciones de productos basados en visitas anteriores y ofertas.
