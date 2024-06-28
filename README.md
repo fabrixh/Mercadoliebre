@@ -13,14 +13,14 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
   <summary>Tabla de Contenidos</summary>
   <ol>
     <li><a href="#readme-top"><sub>Inicio</sub></a></li>
-    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#características"><sub>Características</sub></a></li>
-    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#tecnologías-utilizadas"><sub>Tecnologías Utilizadas</sub></a></li>
-    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#estructura-del-proyecto"><sub>Estructura del Proyecto</sub></a></li>
-    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#consignas-prácticas-integradoras-a-cumplir"><sub>Consignas Prácticas Integradoras a Cumplir</sub></a></li>
-    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#instalación"><sub>Instalación</sub></a></li>
+    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-características"><sub>Características</sub></a></li>
+    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-tecnologías-utilizadas"><sub>Tecnologías Utilizadas</sub></a></li>
+    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-estructura-del-proyecto"><sub>Estructura del Proyecto</sub></a></li>
+    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-consignas-prácticas-integradoras-a-cumplir"><sub>Consignas Prácticas Integradoras a Cumplir</sub></a></li>
+    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-instalación"><sub>Instalación</sub></a></li>
     <ul>
-      <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#servidor-local-en-visual-studio-code"><sub>Servidor local en Visual Studio Code</sub></a></li>
-      <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#despliegue-en-servidor-web-render"><sub>Despliegue en Servidor Web Render</sub></a></li>
+      <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-servidor-local-en-visual-studio-code"><sub>Servidor local en Visual Studio Code</sub></a></li>
+      <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-despliegue-en-servidor-web-render"><sub>Despliegue en Servidor Web Render</sub></a></li>
     </ul>
   </ol>
 </details>
@@ -110,7 +110,7 @@ El proyecto está organizado de la siguiente manera:
 
 
    
-### 🌐 Depliegue en Servidor Web Render
+### 🌐 Despliegue en Servidor Web Render
 
 1. Crea una cuenta en Render usando el enlace a continuación. Si tienes más preguntas, consulta la <a href="https://drive.google.com/file/d/1vHm07KcydinAfDofaiOoAPcH4tkj6kL_/view" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Guía Detallada Deploy.pdf</a>.
 
