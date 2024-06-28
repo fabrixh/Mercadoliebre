@@ -91,24 +91,29 @@ El proyecto está organizado de la siguiente manera:
    
 ### 🌐 Depliegue en Servidor Web Render
 
-1. Crea una cuenta en: 
+1. Crea una cuenta en Render usando el enlace a continuación. Si tienes más preguntas, consulta la <a href="https://drive.google.com/file/d/1vHm07KcydinAfDofaiOoAPcH4tkj6kL_/view" style="display: inline-block; padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Guía Detallada Deploy.pdf</a>.
+
 
    ```bash
       https://dashboard.render.com/create?type=web
     ```
-      Continua en *New WebServer > Build and deploy from a Git repository > Next*
+      Continúa en ***New WebServer > Build and deploy from a Git repository > Next***
 
-2. Puedes copiar el enlace del repositorio debajo en *Public Git repository*:
+
+3. Puedes copiar el enlace del repositorio debajo en ***Public Git repository***:
    ```bash
       https://github.com/fabrixh/Mercadoliebre
     ```
-3. Define la configuración con los comandos más importantes:
+4. Define la configuración con los comandos más importantes:
    - Name: *descriptivo del proyecto*
    - Build Command: ```npm install```
    - Start Command: ```npm start```
 
-4. Ejecutar el boton ```Deploy Web Service``` Si todo se cumple, el servidor estará en línea con el enlace para acceder al sitio. O accede a este enlace para verlo activo:
+5. Ejecutar el boton ```Deploy Web Service``` Si todo se cumple, el servidor estará en línea con el enlace para acceder al sitio. O accede a este enlace para verlo activo:
 
    ```bash
       https://ml-fabrixh.onrender.com/
     ```
+
+
+
