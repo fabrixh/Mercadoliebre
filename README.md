@@ -54,14 +54,16 @@ El proyecto está organizado de la siguiente manera:
 
 ## 🎯 Consignas Prácticas Integradoras a Cumplir
 
-| Clase | Descripción | Enlace |
-|-------|-------------|--------|
-| N17 | Estructura de un sitio web | [Ver](https://drive.google.com/file/d/1L7st7e2N9_6o6Yk5yaTT0OZk4ad0YJHV/view) |
-| N18 | Agregando estilos | [Ver](https://drive.google.com/file/d/1P0k5uabfhBXmhtf_MalPUHWArxFtCX9U/view) |
-| N19 | Diseño adaptativo | [Ver](https://drive.google.com/file/d/1r7aFOtVMpLnFS3-aiA9eraNYp-5KRfqa/view) |
-| N20 | Posicionamiento avanzado FlexBox | [Ver](https://drive.google.com/file/d/1flX4YlO42VQC0YTCXYZsKN8FedsUykjV/view) |
-| N21 | Formularios | [Ver](https://drive.google.com/file/d/1RxTxwmrUCc0WOoRg6_hyqNzq2FMYNDs1/view) |
-| N22 | Organizando Elementos | [Ver](https://drive.google.com/file/d/1IZMZZQnK0auf_LFdOOUyl-tg63fjLSfw/view) |
+| Clase | Descripción | Hoja de ruta | Enlace |
+|-------|-------------|--------------|--------|
+| N17   | Estructura de un sitio web | &#9745; &#9744; &#9744; &#9744; &#9744; &#9744; | [Ver](https://drive.google.com/file/d/1L7st7e2N9_6o6Yk5yaTT0OZk4ad0YJHV/view) |
+| N18   | Agregando estilos | &#9745; &#9745; &#9744; &#9744; &#9744; &#9744; | [Ver](https://drive.google.com/file/d/1P0k5uabfhBXmhtf_MalPUHWArxFtCX9U/view) |
+| N19   | Diseño adaptativo | &#9745; &#9745; &#9745; &#9744; &#9744; &#9744; | [Ver](https://drive.google.com/file/d/1r7aFOtVMpLnFS3-aiA9eraNYp-5KRfqa/view) |
+| N20   | Posicionamiento avanzado FlexBox | &#9745; &#9745; &#9745; &#9745; &#9744; &#9744; | [Ver](https://drive.google.com/file/d/1flX4YlO42VQC0YTCXYZsKN8FedsUykjV/view) |
+| N21   | Formularios | &#9745; &#9745; &#9745; &#9745; &#9745; &#9744; | [Ver](https://drive.google.com/file/d/1RxTxwmrUCc0WOoRg6_hyqNzq2FMYNDs1/view) |
+| N22   | Organizando Elementos | &#9745; &#9745; &#9745; &#9745; &#9745; &#9745; | [Ver](https://drive.google.com/file/d/1IZMZZQnK0auf_LFdOOUyl-tg63fjLSfw/view) |
+
+ 
 
 ## 🚀 Instalación
 
