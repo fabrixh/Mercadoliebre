@@ -4,6 +4,7 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 
+let PORT = 3000 || process.env.PORT;
 
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, './views/index.html'));
@@ -26,7 +27,7 @@ app.post('/submit-form', (req, res) => {
   });
 
 
-app.listen(3030, () => 
-    console.log("Servidor corriendo"))
+  app.listen(PORT, () => 
+    console.log("Servidor corriendo" + PORT))
     
     
