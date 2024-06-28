@@ -18,10 +18,10 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
 ## 👨🏻‍💻 Tecnologías Utilizadas
 
 
-- **HTML5**: Estructura de la aplicación.
-- <img src="https://cdn3.emoji.gg/emojis/css.png" width="10"> **CSS3**: Estilos para la aplicación.
-- **JavaScript**: Funcionalidades dinámicas en la aplicación.
-- **Node.js** y **Express**: Backend para manejar las solicitudes del formulario de registro y login.
+- <img src="https://cdn3.emoji.gg/emojis/HTML.png" width="16"> **HTML5**: Estructura de la aplicación.
+- <img src="https://cdn3.emoji.gg/emojis/css.png" width="16"> **CSS3**: Estilos para la aplicación.
+- <img src="https://cdn3.emoji.gg/emojis/node_js.png" width="16"> **JavaScript**: Funcionalidades dinámicas en la aplicación.
+ - <img src="https://cdn3.emoji.gg/emojis/node_js.png" width="16"> **Node.js** y **Express**: Backend para manejar las solicitudes del formulario de registro y login.
 
 ## 📂 Estructura del Proyecto
 
