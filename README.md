@@ -16,7 +16,7 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
     <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-características"><sub>Características</sub></a></li>
     <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-tecnologías-utilizadas"><sub>Tecnologías Utilizadas</sub></a></li>
     <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-estructura-del-proyecto"><sub>Estructura del Proyecto</sub></a></li>
-    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-consignas-prácticas-integradoras-a-cumplir"><sub>Consignas Prácticas Integradoras a Cumplir</sub></a></li>
+    <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-hoja-de-ruta"><sub>Hoja de Ruta</sub></a></li>
     <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-instalación"><sub>Instalación</sub></a></li>
     <ul>
       <li><a href="https://github.com/fabrixh/Mercadoliebre?tab=readme-ov-file#-servidor-local-en-visual-studio-code"><sub>Servidor local en Visual Studio Code</sub></a></li>
@@ -69,7 +69,7 @@ El proyecto está organizado de la siguiente manera:
 └── .gitignore                    # Archivos y directorios a ignorar por Git
 ```
 
-## 🎯 Consignas Prácticas Integradoras a Cumplir
+## 🎯 Hoja de Ruta
 
 | Clase | Descripción | Hoja de ruta | Enlace |
 |-------|-------------|--------------|--------|
