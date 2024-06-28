@@ -58,26 +58,52 @@ El proyecto está organizado de la siguiente manera:
 
 ## 🚀 Instalación
 
+### 💻 Servidor local en Visual Studio Code
+
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/fabrixh/Mercadoliebre.git
 
-2. Navega al directorio del proyecto:
-
-   ```bash
-   cd nombre-del-repositorio
-
-3. Instala las dependencias necesarias:
+2. Instala las dependencias necesarias:
 
    ```bash
    npm install
 
-4. Inicia el servidor:
+3. Inicia el servidor local:
  
    ```bash
    node app.js
 
+4. Abre el navegador web y tipea:
 
 
+   ```bash
+     http://localhost:3030/
+    ```
 
+
+   
+### 🌐 Depliegue en Servidor Web Render
+
+1. Crea una cuenta en: 
+
+   ```bash
+      https://dashboard.render.com/create?type=web
+    ```
+      Continua en *New WebServer > Build and deploy from a Git repository > Next*
+
+2. Puedes copiar el enlace del repositorio debajo en *Public Git repository*:
+   ```bash
+      https://github.com/fabrixh/Mercadoliebre
+    ```
+3. Define la configuración con los comandos más importantes:
+   - Name: *descriptivo del proyecto*
+   - Build Command: ```npm install```
+   - Start Command: ```npm start```
+
+4. Ejecutar el boton ```Deploy Web Service``` Si todo se cumple, el servidor estará en línea con el enlace para acceder al sitio. O accede a este enlace para verlo activo:
+
+   ```bash
+      https://ml-fabrixh.onrender.com/
+    ```
