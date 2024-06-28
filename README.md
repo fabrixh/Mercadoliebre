@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Proyecto integrador Mercado Liebre 📦
 
 Mercado Liebre es una aplicación web de comercio electrónico donde los usuarios pueden buscar productos, registrarse, iniciar sesión y ver ofertas basadas en sus visitas anteriores.
@@ -16,6 +18,8 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
 
 ## 👨🏻‍💻 Tecnologías Utilizadas
 
+* [![Next][Next.js]][Next-url]
+* [![Contributors][contributors-shield]][contributors-url]
 - **HTML5**: Estructura de la aplicación.
 - **CSS3**: Estilos para la aplicación.
 - **JavaScript**: Funcionalidades dinámicas en la aplicación.
@@ -114,6 +118,6 @@ El proyecto está organizado de la siguiente manera:
    ```bash
       https://ml-fabrixh.onrender.com/
     ```
-
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
