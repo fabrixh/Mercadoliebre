@@ -101,7 +101,7 @@ El proyecto está organizado de la siguiente manera:
    ```bash
    node app.js
 
-4. Abre el navegador web y tipea:
+4. Abre tu navegador web y escribe en la barra de direcciones:
 
 
    ```bash
