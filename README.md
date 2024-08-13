@@ -42,7 +42,7 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
 
 ## 📂 Estructura del Proyecto
 
-El proyecto está organizado de la siguiente manera:
+El proyecto está organizado de la siguiente forma:
 
 
 
