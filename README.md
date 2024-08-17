@@ -86,7 +86,7 @@ El proyecto está organizado de la siguiente manera:
 
 ### 💻 Servidor local en Visual Studio Code
 
-1. Clona el repositorio en tu máquina local con el siguiente comando:
+1. Clona el repositorio en tu máquina local con el siguiente comando a continuación:
 
    ```bash
    git clone https://github.com/fabrixh/Mercadoliebre.git
