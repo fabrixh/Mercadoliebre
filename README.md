@@ -7,6 +7,7 @@ Mercado Liebre es una aplicación web de comercio electrónico donde los usuario
    
     
 
+
 <a href="https://ml-fabrixh.onrender.com/" style="display: block; text-align: center;">
   <img src="./public/images/logo-mercado-liebre.svg" alt="Vista de Mercado Liebre" width="220"> 
 </a>
