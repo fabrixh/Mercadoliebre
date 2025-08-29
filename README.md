@@ -1,4 +1,4 @@
-8k full hd
+ b 8k full hd
 
 <a id="readme-top"></a>
 # Proyecto integrador Mercado Liebre 📦
