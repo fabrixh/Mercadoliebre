@@ -1,4 +1,4 @@
-ba b 8hk full hd
+8hk full hd
 
 <a id="readme-top"></a>
 # Proyecto integrador Mercado Liebre 📦
