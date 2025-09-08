@@ -1,4 +1,4 @@
-h v8hk full hd
+full hd
 
 <a id="readme-top"></a>
 # Proyecto integrador Mercado Liebre 📦
