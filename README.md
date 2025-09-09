@@ -1,4 +1,4 @@
-full hd
+v full hd
 
 <a id="readme-top"></a>
 # Proyecto integrador Mercado Liebre 📦
