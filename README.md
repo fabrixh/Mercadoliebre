@@ -1,4 +1,4 @@
-vvc vkx bv full hd
+full hd
 
 <a id="readme-top"></a>
 # Proyecto integrador Mercado Liebre 📦
